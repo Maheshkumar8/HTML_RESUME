@@ -4,7 +4,7 @@
         <h1 style="text-align:center">RESUME</h2>
         <p><h2 style="text-align:left">KODURU MAHESH KUMAR</h2>
         <h2 style="text-align:right"><b>Email ID : </b>maheshkumarr966@gmail.com</h2></p>
-        <h2 style="text-align:right"><b>MObile : </b>+918498036867</h4>
+        <h2 style="text-align:right"><b>Mobile : </b>+918498036867</h4>
         <hr>
         <h3>OBJECTIVE:</h3>
         <P>To obtain a position that involves innovation and presents challenging 
@@ -81,8 +81,5 @@
         and features of your home via the Internet to make life more convenient and 
         secure, and even spend less on household bills.</p><br>
         <h3>PERSONAL DETAILS</h3>
-
-
-        
     </body>
 </html>
